@@ -2,14 +2,16 @@
 
 :root{
     --cor-de-fundo:#lelele;
-    --cor-texto-principal:A0D585;
-    --cor-texto-segundario:EEFABD;
-    --botão-ativo:8F0177;
-    --botão-inativo:FF88BA;
+    --cor-texto-principal:#A0D585;
+    --cor-texto-segundario:#EEFABD;
+    --botão-ativo:#8F0177;
+    --botão-inativo:#FF88BA;
+
 }
 
 
-
 body{
-  font-family: "Changa", sans-serif;
+    background: var(--cor-de-fundo);
+    color: var(--cor-texto-principal);
+    font-family: "Changa", sans-serif;
 }
