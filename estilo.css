@@ -40,8 +40,27 @@ body{
     background-color: var(--botao-inativo);
     display: flex;
     justify-content: center;
-    padding: 1em;
+    padding: 18px;
     font-size: 18px;
-    align-items:center;
-    width:100%;
+    align-items: center;
+    width: 100%;
+    border-bottom: 4px solid var(--botao-inativo);
+    border-bottom: 2px solid var(--botao-inativo);
+    border-bottom: 2px solid var(--botao-inativo);
+}
+
+.botao:first-child{
+    border-radius: 40px 40px 0 0;
+}
+
+@media screen and (min-width:768px){
+    .botoes{
+        display: flex;
+    }
+    .botao:first-child{
+    border-radius: 40px 0 0;    
+}  
+    .bota:last-child{
+    border-radius: 0 0 0 0;
+}
 }
