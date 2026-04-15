@@ -62,6 +62,9 @@ body{
 .aba-conteudo.botao.ativo{
     display: block;
 }
+.aba.conteudo{
+    display: none;
+}
 .abas-texto{
     background-color: var(--cor-de-fundo);
     padding: 40px;
