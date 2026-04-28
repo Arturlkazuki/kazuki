@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
 :root {
-    --cor-de-fundo: #24ea8d;
+    --cor-de-fundo: #20a667;
     --cor-texto-principal: #003049;
     --cor-texto-secundario: #285A48;
-    --botao-inativo: #84e5db;
+    --botao-inativo: #5ebfb5;
     --botao-ativo: #818a6f;
 
 
