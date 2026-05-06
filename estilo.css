@@ -106,7 +106,12 @@ body {
     font-size: 20px;
     text-align: center;
 }
-
+   
+.conteudo-titulo-sucundario{
+    text-align:center;
+    color: var(--cor-texto-secundario);
+    text-transform: uppercase;
+}
 
 
 
