@@ -77,7 +77,7 @@ body {
     border-radius: 0 0 40px 40px;
 }
 
-}
+
 
 .contador {
     display: flex;
@@ -107,7 +107,7 @@ body {
     text-align: center;
 }
    
-.conteudo-titulo-sucundario{
+.conteudo-titulo-secundario{
     text-align: center;
     color: var(--cor-texto-secundario);
     text-transform: uppercase;
