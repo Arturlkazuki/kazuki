@@ -1,1 +1,12 @@
-1 alert(debora dao cu)
+const botoes = document.querySelectorAll(".botao")
+console.log(botoes)
+const textos = document.querySelectorAll(".aba-conteudo")
+console.log(textos)
+
+for(let  i = 0; i<botoes.length;i++){
+    botoes[i].onclick = function (){
+        for(let  i = 0; i<botoes.length;i++){{
+            
+        }
+    }
+}
