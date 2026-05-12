@@ -1,0 +1,1 @@
+1 alert(debora dao cu)
